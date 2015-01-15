@@ -1,3 +1,5 @@
+// code to determine if a number is prime or not and it also lists out all of its divisors in the process
+
 #include <iostream>
 
 int main(){
