@@ -1,0 +1,4 @@
+ls = list files in the current directory
+cd = change to the directory that you specify
+g++ -o Example.out Example.cpp = command for compiling and creating a text file
+javac Example.java = compile a java program
